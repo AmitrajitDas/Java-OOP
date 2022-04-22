@@ -1,4 +1,4 @@
-package com.ad.playground;
+package com.ad.basic;
 
 public class Calculator {
     private double firstNumber;
